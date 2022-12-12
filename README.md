@@ -1,7 +1,7 @@
 ### Hello there 👋, this is Michael
 
 - 🌱 I’m currently learning SQL and Power BI.
-- 👯 I’m looking to collaborate on any data related project.
+- 👯 I’m also looking to collaborate on any data related project.
 - 🤔 I’m looking for help with breaking into tech and building a strong portfolio.
 - 📫 How to reach me: @ndolomichael2018@gmail.com
 - 😄 Pronouns: He/him
