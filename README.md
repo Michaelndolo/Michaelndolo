@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Michaelndolo/Michaelndolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello there 👋, this is Michael
 
 - 🌱 I’m currently learning SQL and Power BI.
 - 👯 I’m looking to collaborate on any data related project.
